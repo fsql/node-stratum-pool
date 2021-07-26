@@ -28,12 +28,12 @@
         "url": "https://github.com/joshuayabut/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/zencashofficial/equihashverify.git",
+        "equihashverify": "git+http://github.com/zencashofficial/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
-        "merkle-bitcoin": "git+https://github.com/fsql/merkle-bitcoin.git",
-        "bitcoinjs-lib-zcash": "git+https://github.com/pbca26/bitcoinjs-lib-zcash.git#zcash",
+        "merkle-bitcoin": "git+http://github.com/fsql/merkle-bitcoin.git",
+        "bitcoinjs-lib-zcash": "git+http://github.com/pbca26/bitcoinjs-lib-zcash.git#zcash",
         "promise": "*"
     },
     "engines": {
